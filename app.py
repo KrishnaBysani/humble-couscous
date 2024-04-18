@@ -166,7 +166,7 @@ def about() :
     st.write("<p align='center'></p>", unsafe_allow_html=True)
     st.write("<p align='center'></p>", unsafe_allow_html=True)
     st.write("<p align='center'><b>Supervised by Dr. Mukil Alagirisamy</b></p>", unsafe_allow_html=True)
-    st.write("<p align='center'><b>2nd Markert : Assoc Porf. Dr. Raja Rajeswari</b></p>", unsafe_allow_html=True)
+    st.write("<p align='center'><b>2nd Marker : Assoc Porf. Dr. Raja Rajeswari</b></p>", unsafe_allow_html=True)
     st.write("<p align='center'><b>2024</b></p>", unsafe_allow_html=True)
 
 options = st.sidebar.selectbox(
